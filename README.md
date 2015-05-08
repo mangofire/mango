@@ -12,5 +12,5 @@ Mango 解决人们忘了带手机而不能收发短信和收到来电通知的�
 为了减少git学习成本，该项目先暂时放在三个不同的仓库，后期会考虑合并到同一个仓库的不同分支中
 
 ### 支持和协议
-本项目的服务器依赖于[新浪云平台](http://sae.sina.com.cn/)和[Laravel框架](https://github.com/laravel/laravel)
-该项目遵循[MIT开源许可证](http://opensource.org/licenses/MIT)
+* 本项目的服务器依赖于[新浪云平台](http://sae.sina.com.cn/)和[Laravel框架](https://github.com/laravel/laravel)
+* 本项目遵循[MIT开源许可证](http://opensource.org/licenses/MIT)
