@@ -9,6 +9,7 @@ Mango 解决人们忘了带手机而不能收发短信和收到来电通知的�
 * [服务器端](https://github.com/mangofire/mango-server):张志强
 * [安卓端](https://github.com/mangofire/mango-android):郑鑫
 * [windows客户端](https://github.com/mangofire/mango-windows-client):吕裕铭 张志强
+
 #### 为了减少git学习成本，该项目先暂时放在三个不同的仓库，后期会考虑合并到同一个仓库的不同分支中
 
 ### 支持和协议
